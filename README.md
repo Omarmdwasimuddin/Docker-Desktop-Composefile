@@ -5,6 +5,12 @@
 
 #### project root e create koro compose.yaml file
 ```bash
+services:
+  img:
+    build: .
+    container_name: my-containers
+    ports:
+      -3000:3000
 
 ```
 ---
