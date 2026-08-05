@@ -10,7 +10,7 @@ services:
     build: .
     container_name: my-containers
     ports:
-      -3000:3000
+      - 3000:3000
 
 ```
 ---
