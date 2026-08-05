@@ -14,3 +14,9 @@ services:
 
 ```
 ---
+
+#### terminal e command daw
+```bash
+docker compose up
+```
+---
