@@ -1,7 +1,7 @@
-## Docker-Desktop: Compose File (docker-compose.yml)
+## Docker Desktop: Docker Compose (compose.yaml)
 
 > #### Compose কি?
-> Docker Compose হলো একটা tool, যেটা দিয়ে multiple container একসাথে define এবং run করা যায়, একটা single command দিয়ে।
+> Docker Compose হলো একটি tool, যা compose.yaml ফাইল ব্যবহার করে একাধিক Container-এর configuration define এবং একটি single command (docker compose up) দিয়ে সেগুলো build ও run করতে সাহায্য করে।
 
 #### project root e create koro compose.yaml file
 ```bash
