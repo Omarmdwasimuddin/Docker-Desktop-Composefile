@@ -20,3 +20,4 @@ services:
 docker compose up
 ```
 ---
+> docker desktop e images and containers build hoye jabe and brower e server running hobe.
